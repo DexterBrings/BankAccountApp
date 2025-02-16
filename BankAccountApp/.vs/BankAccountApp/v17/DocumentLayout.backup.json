@@ -1,18 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\dexte\\source\\repos\\BankAccountApp\\BankAccountApp\\",
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\BankAccountApp\\BankAccountApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5D64C7E7-A222-4303-A4FF-51F31E22ED68}|BankAccountTest\\BankAccountTest.csproj|c:\\users\\dexte\\source\\repos\\bankaccountapp\\bankaccountapp\\bankaccounttest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5D64C7E7-A222-4303-A4FF-51F31E22ED68}|BankAccountTest\\BankAccountTest.csproj|solutionrelative:bankaccounttest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5D64C7E7-A222-4303-A4FF-51F31E22ED68}|BankAccountTest\\BankAccountTest.csproj|c:\\users\\admin\\source\\repos\\bankaccountapp\\bankaccountapp\\bankaccounttest\\testbankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D64C7E7-A222-4303-A4FF-51F31E22ED68}|BankAccountTest\\BankAccountTest.csproj|solutionrelative:bankaccounttest\\testbankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BAC56422-646F-4B65-9B19-8DFAD23BEC89}|BankAccountApp\\BankAccountApp.csproj|c:\\users\\dexte\\source\\repos\\bankaccountapp\\bankaccountapp\\bankaccountapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BAC56422-646F-4B65-9B19-8DFAD23BEC89}|BankAccountApp\\BankAccountApp.csproj|solutionrelative:bankaccountapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BAC56422-646F-4B65-9B19-8DFAD23BEC89}|BankAccountApp\\BankAccountApp.csproj|c:\\users\\dexte\\source\\repos\\bankaccountapp\\bankaccountapp\\bankaccountapp\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BAC56422-646F-4B65-9B19-8DFAD23BEC89}|BankAccountApp\\BankAccountApp.csproj|c:\\users\\admin\\source\\repos\\bankaccountapp\\bankaccountapp\\bankaccountapp\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BAC56422-646F-4B65-9B19-8DFAD23BEC89}|BankAccountApp\\BankAccountApp.csproj|solutionrelative:bankaccountapp\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAC56422-646F-4B65-9B19-8DFAD23BEC89}|BankAccountApp\\BankAccountApp.csproj|c:\\users\\admin\\source\\repos\\bankaccountapp\\bankaccountapp\\bankaccountapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAC56422-646F-4B65-9B19-8DFAD23BEC89}|BankAccountApp\\BankAccountApp.csproj|solutionrelative:bankaccountapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,40 +27,40 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "UnitTest1.cs",
-              "DocumentMoniker": "C:\\Users\\dexte\\source\\repos\\BankAccountApp\\BankAccountApp\\BankAccountTest\\UnitTest1.cs",
-              "RelativeDocumentMoniker": "BankAccountTest\\UnitTest1.cs",
-              "ToolTip": "C:\\Users\\dexte\\source\\repos\\BankAccountApp\\BankAccountApp\\BankAccountTest\\UnitTest1.cs",
-              "RelativeToolTip": "BankAccountTest\\UnitTest1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "TestBankAccount.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BankAccountApp\\BankAccountApp\\BankAccountTest\\TestBankAccount.cs",
+              "RelativeDocumentMoniker": "BankAccountTest\\TestBankAccount.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BankAccountApp\\BankAccountApp\\BankAccountTest\\TestBankAccount.cs",
+              "RelativeToolTip": "BankAccountTest\\TestBankAccount.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAuwCYAAABZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-16T16:18:10.284Z",
+              "WhenOpened": "2025-02-16T17:55:19.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BankAccount.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BankAccountApp\\BankAccountApp\\BankAccountApp\\BankAccount.cs",
+              "RelativeDocumentMoniker": "BankAccountApp\\BankAccount.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BankAccountApp\\BankAccountApp\\BankAccountApp\\BankAccount.cs",
+              "RelativeToolTip": "BankAccountApp\\BankAccount.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAIwB0AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T14:41:50.671Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "BankAccount.cs",
-              "DocumentMoniker": "C:\\Users\\dexte\\source\\repos\\BankAccountApp\\BankAccountApp\\BankAccountApp\\BankAccount.cs",
-              "RelativeDocumentMoniker": "BankAccountApp\\BankAccount.cs",
-              "ToolTip": "C:\\Users\\dexte\\source\\repos\\BankAccountApp\\BankAccountApp\\BankAccountApp\\BankAccount.cs",
-              "RelativeToolTip": "BankAccountApp\\BankAccount.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAuwCsAAABYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-16T14:41:50.671Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\dexte\\source\\repos\\BankAccountApp\\BankAccountApp\\BankAccountApp\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BankAccountApp\\BankAccountApp\\BankAccountApp\\Program.cs",
               "RelativeDocumentMoniker": "BankAccountApp\\Program.cs",
-              "ToolTip": "C:\\Users\\dexte\\source\\repos\\BankAccountApp\\BankAccountApp\\BankAccountApp\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BankAccountApp\\BankAccountApp\\BankAccountApp\\Program.cs",
               "RelativeToolTip": "BankAccountApp\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-16T14:33:53.978Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-16T14:33:53.978Z"
             }
           ]
         }

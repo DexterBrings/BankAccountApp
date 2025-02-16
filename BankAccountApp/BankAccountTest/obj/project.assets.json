@@ -1708,6 +1708,16 @@
         "build": {
           "build/net6.0/xunit.runner.visualstudio.props": {}
         }
+      },
+      "BankAccountApp/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/BankAccountApp.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BankAccountApp.dll": {}
+        }
       }
     }
   },
@@ -5497,10 +5507,16 @@
         "xunit.runner.visualstudio.2.5.3.nupkg.sha512",
         "xunit.runner.visualstudio.nuspec"
       ]
+    },
+    "BankAccountApp/1.0.0": {
+      "type": "project",
+      "path": "../BankAccountApp/BankAccountApp.csproj",
+      "msbuildProject": "../BankAccountApp/BankAccountApp.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0": [
+      "BankAccountApp >= 1.0.0",
       "Microsoft.NET.Test.Sdk >= 17.8.0",
       "coverlet.collector >= 6.0.0",
       "xunit >= 2.5.3",
@@ -5508,23 +5524,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\dexte\\.nuget\\packages\\": {},
+    "C:\\Users\\Admin\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dexte\\source\\repos\\BankAccountApp\\BankAccountApp\\BankAccountTest\\BankAccountTest.csproj",
+      "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\BankAccountApp\\BankAccountApp\\BankAccountTest\\BankAccountTest.csproj",
       "projectName": "BankAccountTest",
-      "projectPath": "C:\\Users\\dexte\\source\\repos\\BankAccountApp\\BankAccountApp\\BankAccountTest\\BankAccountTest.csproj",
-      "packagesPath": "C:\\Users\\dexte\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dexte\\source\\repos\\BankAccountApp\\BankAccountApp\\BankAccountTest\\obj\\",
+      "projectPath": "C:\\Users\\Admin\\source\\repos\\BankAccountApp\\BankAccountApp\\BankAccountTest\\BankAccountTest.csproj",
+      "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Admin\\source\\repos\\BankAccountApp\\BankAccountApp\\BankAccountTest\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\dexte\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -5538,7 +5554,11 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\Admin\\source\\repos\\BankAccountApp\\BankAccountApp\\BankAccountApp\\BankAccountApp.csproj": {
+              "projectPath": "C:\\Users\\Admin\\source\\repos\\BankAccountApp\\BankAccountApp\\BankAccountApp\\BankAccountApp.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

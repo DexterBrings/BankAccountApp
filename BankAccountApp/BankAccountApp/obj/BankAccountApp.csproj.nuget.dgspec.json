@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dexte\\source\\repos\\BankAccountApp\\BankAccountApp\\BankAccountApp\\BankAccountApp.csproj": {}
+    "C:\\Users\\Admin\\source\\repos\\BankAccountApp\\BankAccountApp\\BankAccountApp\\BankAccountApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dexte\\source\\repos\\BankAccountApp\\BankAccountApp\\BankAccountApp\\BankAccountApp.csproj": {
+    "C:\\Users\\Admin\\source\\repos\\BankAccountApp\\BankAccountApp\\BankAccountApp\\BankAccountApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dexte\\source\\repos\\BankAccountApp\\BankAccountApp\\BankAccountApp\\BankAccountApp.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\BankAccountApp\\BankAccountApp\\BankAccountApp\\BankAccountApp.csproj",
         "projectName": "BankAccountApp",
-        "projectPath": "C:\\Users\\dexte\\source\\repos\\BankAccountApp\\BankAccountApp\\BankAccountApp\\BankAccountApp.csproj",
-        "packagesPath": "C:\\Users\\dexte\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dexte\\source\\repos\\BankAccountApp\\BankAccountApp\\BankAccountApp\\obj\\",
+        "projectPath": "C:\\Users\\Admin\\source\\repos\\BankAccountApp\\BankAccountApp\\BankAccountApp\\BankAccountApp.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Admin\\source\\repos\\BankAccountApp\\BankAccountApp\\BankAccountApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\dexte\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
