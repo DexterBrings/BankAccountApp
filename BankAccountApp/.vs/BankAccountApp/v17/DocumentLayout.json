@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dexte\\source\\repos\\BankAccountApp\\BankAccountApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BAC56422-646F-4B65-9B19-8DFAD23BEC89}|BankAccountApp\\BankAccountApp.csproj|c:\\users\\dexte\\source\\repos\\bankaccountapp\\bankaccountapp\\bankaccountapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAC56422-646F-4B65-9B19-8DFAD23BEC89}|BankAccountApp\\BankAccountApp.csproj|solutionrelative:bankaccountapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dexte\\source\\repos\\BankAccountApp\\BankAccountApp\\BankAccountApp\\Program.cs",
+              "RelativeDocumentMoniker": "BankAccountApp\\Program.cs",
+              "ToolTip": "C:\\Users\\dexte\\source\\repos\\BankAccountApp\\BankAccountApp\\BankAccountApp\\Program.cs",
+              "RelativeToolTip": "BankAccountApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T14:33:53.978Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
