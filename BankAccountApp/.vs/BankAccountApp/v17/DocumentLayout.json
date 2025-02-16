@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\dexte\\source\\repos\\BankAccountApp\\BankAccountApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BAC56422-646F-4B65-9B19-8DFAD23BEC89}|BankAccountApp\\BankAccountApp.csproj|c:\\users\\dexte\\source\\repos\\bankaccountapp\\bankaccountapp\\bankaccountapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BAC56422-646F-4B65-9B19-8DFAD23BEC89}|BankAccountApp\\BankAccountApp.csproj|solutionrelative:bankaccountapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5D64C7E7-A222-4303-A4FF-51F31E22ED68}|BankAccountTest\\BankAccountTest.csproj|c:\\users\\dexte\\source\\repos\\bankaccountapp\\bankaccountapp\\bankaccounttest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D64C7E7-A222-4303-A4FF-51F31E22ED68}|BankAccountTest\\BankAccountTest.csproj|solutionrelative:bankaccounttest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BAC56422-646F-4B65-9B19-8DFAD23BEC89}|BankAccountApp\\BankAccountApp.csproj|c:\\users\\dexte\\source\\repos\\bankaccountapp\\bankaccountapp\\bankaccountapp\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BAC56422-646F-4B65-9B19-8DFAD23BEC89}|BankAccountApp\\BankAccountApp.csproj|solutionrelative:bankaccountapp\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAC56422-646F-4B65-9B19-8DFAD23BEC89}|BankAccountApp\\BankAccountApp.csproj|c:\\users\\dexte\\source\\repos\\bankaccountapp\\bankaccountapp\\bankaccountapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAC56422-646F-4B65-9B19-8DFAD23BEC89}|BankAccountApp\\BankAccountApp.csproj|solutionrelative:bankaccountapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,8 +22,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\dexte\\source\\repos\\BankAccountApp\\BankAccountApp\\BankAccountTest\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "BankAccountTest\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\dexte\\source\\repos\\BankAccountApp\\BankAccountApp\\BankAccountTest\\UnitTest1.cs",
+              "RelativeToolTip": "BankAccountTest\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T16:18:10.284Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -28,14 +45,14 @@
               "RelativeDocumentMoniker": "BankAccountApp\\BankAccount.cs",
               "ToolTip": "C:\\Users\\dexte\\source\\repos\\BankAccountApp\\BankAccountApp\\BankAccountApp\\BankAccount.cs",
               "RelativeToolTip": "BankAccountApp\\BankAccount.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAuwCsAAABYAAAAAAAAAA==",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAACsAAABYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-16T14:41:50.671Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\dexte\\source\\repos\\BankAccountApp\\BankAccountApp\\BankAccountApp\\Program.cs",
               "RelativeDocumentMoniker": "BankAccountApp\\Program.cs",
